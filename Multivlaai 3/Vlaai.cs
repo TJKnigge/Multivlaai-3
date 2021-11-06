@@ -13,6 +13,8 @@ namespace Multivlaai_3
             get { return string.Format(new CultureInfo("nl-NL"), "{0:C2}", Verkoop, Inkoop, Winst); }
         }
 
+
+
         public int Id;
         public string SoortVlaai;
         public decimal Inkoop;

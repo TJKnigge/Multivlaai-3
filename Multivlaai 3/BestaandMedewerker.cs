@@ -39,6 +39,7 @@ namespace Multivlaai_3
                     Console.WriteLine("  {0}  \t |    {1}  \t |    {2}  \t |    {3}  \t |    {4}  \t |    {5}  \t |    {6}  \t |    {7}  \t |    {8}  ", Nm[i], Achter[i], Functie[i], Str[i], NrHuis[i], Postcd[i], Woonpl[i], Telefoon[i], Geboort[i]);
                 }*/
 
+       
         }
         public static void Werker2(List<BestaandMedewerker> D)
         {

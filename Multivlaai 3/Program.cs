@@ -104,7 +104,9 @@ namespace Multivlaai_3
 
 
             Klant.Klant1(klanten);
+
             BestaandKlant.Bestaan(bestaklnt);
+
 
             Medewerker.Werker1(medewerker);
             BestaandMedewerker.Werker2(bestwerk);
